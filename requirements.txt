@@ -9,6 +9,7 @@ anthropic>=0.18.0
 
 # Web Framework
 flask>=3.0.0
+flask-cors>=4.0.0
 
 # Environment Variables
 python-dotenv>=1.0.0
