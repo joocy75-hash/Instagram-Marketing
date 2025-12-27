@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache
+.coverage
+htmlcov/
+.tox
+.nox
+.eggs
+*.egg-info/
+.mypy_cache
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+Dockerfile
+docker-compose*.yml
+.dockerignore
+
+# CI/CD
+.github/
+
+# Documentation
+*.md
+!requirements.txt
+
+# Logs
+logs/
+*.log
+
+# Test
+tests/
+pytest.ini
+
+# Local config
+.env.local
+*.local.md

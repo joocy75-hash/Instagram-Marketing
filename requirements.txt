@@ -1,0 +1,31 @@
+# Instagram Marketing API Dependencies
+# pip install -r requirements.txt
+
+# Meta/Facebook SDK
+facebook-business>=19.0.0
+
+# AI
+anthropic>=0.18.0
+
+# Web Framework
+flask>=3.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Scheduling
+schedule>=1.2.0
+
+# Slack Notifications
+slack-sdk>=3.27.0
+
+# Utilities
+dataclasses-json>=0.6.0
+
+# Development
+pytest>=8.0.0
+black>=24.0.0
+flake8>=7.0.0
